@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computational Data Science, The Chinese University of Hong Kong, 2027 (expected)
-  * Cumulative GPA: 3.741/4.0
   * Location: New Territories, Hong Kong
 
 Research Experience
