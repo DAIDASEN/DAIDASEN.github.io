@@ -1,6 +1,6 @@
 ---
 title: "Motion Capture Technology for Sports Assessment"
-excerpt: "Android application development for motion analysis and sports performance evaluation.<br/><img src='/images/motion-capture-preview.png'>"
+excerpt: "Android application development for motion analysis and sports performance evaluation."
 collection: portfolio
 ---
 

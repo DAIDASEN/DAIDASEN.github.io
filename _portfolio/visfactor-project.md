@@ -1,6 +1,6 @@
 ---
 title: "VisFactor: Visual Cognition Benchmark for MLLMs"
-excerpt: "A comprehensive benchmark for evaluating fundamental visual cognition capabilities in multimodal large language models.<br/><img src='/images/visfactor-preview.png'>"
+excerpt: "A comprehensive benchmark for evaluating fundamental visual cognition capabilities in multimodal large language models."
 collection: portfolio
 ---
 
