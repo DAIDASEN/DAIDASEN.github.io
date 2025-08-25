@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an undergraduate student pursuing a B.Sc. in Computational Data Science at The Chinese University of Hong Kong, with an expected graduation in May 2027. My research interests focus on multimodal large language models (MLLMs), spatial reasoning, reinforcement learning in games, and motion capture technology for sports assessment.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Currently, I am involved in multiple research projects spanning computer vision, natural language processing, and machine learning. I have experience working with token-level reinforcement learning algorithms, benchmarking spatial reasoning abilities of MLLMs, and developing automated benchmarks for game-based RL generalization.
+
+I am passionate about advancing the field of artificial intelligence, particularly in areas where computer vision meets language understanding, and I enjoy tackling challenging problems that push the boundaries of current technology.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;📄 Our paper "Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs" is published on arXiv
+- *2024.12*: &nbsp;🏆 Achieved Dean's List recognition (Top 10%) for exceptional academic performance 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](https://arxiv.org/abs/2502.16435)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxuan Wang, Wenxiang Jiao, Pinjia He, Zhaopeng Tu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**arXiv**](https://arxiv.org/abs/2502.16435)
+- Built a benchmark suite for evaluating MLLMs via the Kit of Factor-Referenced Cognitive Tests, revealing foundational visual gaps in current models
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* **Dean's List** (Top 10%), Faculty of Engineering, CUHK
+- *2024* **Dr Shu-chia Yang GOAL Programme Memorial Scholarship**, United College, CUHK
+- *2024* **The Alumni Association of United College of the CUHK Ltd Prize**, United College, CUHK
+- *2024* **ELITE Stream Scholarship**, Faculty of Engineering, CUHK
+- *2024* **Dean's List** (Top 10%), Faculty of Engineering, CUHK
+- *2024* **Talent Development Scholarship**, HKSAR
+- *2024* **Meritorious Winner** in the MCM Mathematical Modeling Contest, COMAP
+- *2023* **Second Prize** in the Chinese Physics Olympiad in Provinces, Chinese Physical Society
+- *2023* **Second Prize** in the Chinese High School Mathematics League in Provinces, Chinese Mathematical Society
+- *2022* **First Prize** in the National Olympiad of Information in Provinces, China Computer Federation 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2024.09 - 2027.05 (Expected)*, **B.Sc. in Computational Data Science**, The Chinese University of Hong Kong, New Territories, Hong Kong 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
+- *2025.05 - Present*, **Token-Level RL Algorithm for Multimodal Large Language Models**, Dr. Xufang Luo, Shanghai, China
+  - Developing a token-level RL algorithm to strengthen the spatial-reasoning capacity of MLLMs
+  - Architecting and implementing the algorithm's core components
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06 - Present*, **Pushing the Boundaries of Game-RL Generalization**, Prof. Xiangyu Yue, NT, Hong Kong
+  - Established an automated benchmark for classic puzzle games with dynamic visual puzzle descriptions
+  - Trained RL agents on elementary levels and assessed generalization to complex scenarios
+
+- *2024.09 - 2025.06*, **Benchmarking Spatial Reasoning Abilities of MLLMs**, Dr. Jen-Tse Huang, NT, Hong Kong
+  - Built a benchmark suite for evaluating MLLMs via the Kit of Factor-Referenced Cognitive Tests
+  - Authored core evaluation pipelines to probe LLM capabilities across multiple dimensions
+  - Diagnosed prevailing failure modes and provided in-depth analyses of their root causes
+
+- *2024.03 - 2024.08*, **Motion Re-Capture Technology for Sports Assessment**, Prof. James Cheng, NT, Hong Kong
+  - Designed and implemented motion-capture algorithms for sports performance assessment
+  - Developed the Android component that ingests and analyzes real-time motion data
+
+# 🌟 Community & Leadership
+- *2024.07*, **Pass-it-on Service Learning Program**, United College, CUHK & Tsinghua University
+  - Led volunteer initiatives in a cross-cultural exchange program between CUHK and Tsinghua University students
+  - Facilitated vocational training workshops in SAHK's sheltered employment program, supporting individuals with disabilities
+  - Organized recreational activities and provided care support for children at Ronald McDonald House
+
+# 💻 Technical Skills
+- **Programming Languages**: C, C++, Python, R
+- **Developer Tools**: Matlab, SAS, PyTorch
+- **Languages**: Chinese, English
