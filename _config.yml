@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dai Dasen"
-  avatar           : "images/profile-photo.jpg"
+  avatar           : "images/daidasen.jpg"
   bio              : "Undergraduate @ CUHK, Computational Data Science"
   location         : "Hong Kong"
   employer         :
