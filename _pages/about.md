@@ -25,8 +25,10 @@ I am passionate about advancing the field of artificial intelligence, particular
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🏆 Achieved Dean's List recognition (Top 10%) for exceptional academic performance 
 - *2025.02*: &nbsp;📄 Our paper "Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs" is published on arXiv
-- *2024.12*: &nbsp;🏆 Achieved Dean's List recognition (Top 10%) for exceptional academic performance 
+- *2024.07*: &nbsp;🏆 Achieved Dean's List recognition (Top 10%) for exceptional academic performance
+- *2024.05*: &nbsp;🏅 Meritorious Winner in the MCM Mathematical Modeling Contest (COMAP)
 
 # 📝 Publications 
 
