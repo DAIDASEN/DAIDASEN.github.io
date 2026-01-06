@@ -25,7 +25,7 @@ I am passionate about advancing the field of artificial intelligence, particular
 
 
 # 🔥 News
-- [cite_start]*2026.01*: &nbsp;📄 Our paper "**FMVP: Masked Flow Matching for Adversarial Video Purification**" is published on arXiv[cite: 1].
+- *2026.01*: &nbsp;📄 Our paper "**FMVP: Masked Flow Matching for Adversarial Video Purification**" is published on arXiv.
 - *2025.11*: &nbsp;🚀 Started internship at Huawei 2012 Lab.
 - *2025.02*: &nbsp;📄 Our paper "Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs" is published on arXiv.
 - *2024.07*: &nbsp;🏆 Achieved Dean's List recognition (Top 10%) for exceptional academic performance.
@@ -36,14 +36,13 @@ I am passionate about advancing the field of artificial intelligence, particular
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/FMVP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[cite_start][FMVP: Masked Flow Matching for Adversarial Video Purification](https://arxiv.org/abs/2601.02228)
+[FMVP: Masked Flow Matching for Adversarial Video Purification](https://arxiv.org/abs/2601.02228)
 
-[cite_start]Duoxun Tang, Xueyi Zhang, Chak Hin Wang, Xi Xiao, **Dasen Dai**, Xinhang Jiang, Wentao Shi, Rui Li, Qing Li 
+Duoxun Tang, Xueyi Zhang, Chak Hin Wang, Xi Xiao, **Dasen Dai**, Xinhang Jiang, Wentao Shi, Rui Li, Qing Li 
 
-[cite_start][**arXiv**](https://arxiv.org/abs/2601.02228)
-- [cite_start]Proposed a novel video purification framework integrating Conditional Flow Matching (CFM) with a masking strategy to physically disrupt adversarial patterns.
-- [cite_start]Designed a Frequency-Gated Loss (FGL) to suppress high-frequency adversarial noise while preserving low-frequency semantic fidelity.
-- [cite_start]Achieved over 87% robust accuracy against PGD and 89% against CW attacks, while also serving as a zero-shot adversarial detector.
+[**arXiv**](https://arxiv.org/abs/2601.02228)
+- Proposed a novel video purification framework integrating Conditional Flow Matching (CFM) with a masking strategy to physically disrupt adversarial patterns.
+- Designed a Frequency-Gated Loss (FGL) to suppress high-frequency adversarial noise while preserving low-frequency semantic fidelity.
 </div>
 </div>
 
@@ -56,6 +55,7 @@ Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxu
 
 [**arXiv**](https://arxiv.org/abs/2502.16435)
 - Built a benchmark suite for evaluating MLLMs via the Kit of Factor-Referenced Cognitive Tests, revealing foundational visual gaps in current models.
+- A difficulty-controllable generator was developed for the most challenging sub-tests. It can produce infinite, gradient-based test cases, effectively preventing model overfitting and ensuring the long-term validity of the benchmark.
 </div>
 </div>
 
@@ -72,11 +72,6 @@ Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxu
 - *2024.09 - 2027.05 (Expected)*, **B.Sc. in Computational Data Science**, The Chinese University of Hong Kong, New Territories, Hong Kong 
 
 # 🔬 Research Experience
-- [cite_start]*2025.09 - 2026.01*, **Adversarial Video Purification via Flow Matching**, Prof. Xi Xiao, Tsinghua University [cite: 3, 4]
-  - [cite_start]Developed FMVP, a framework that shatters global adversarial structures through a masking strategy[cite: 15, 49].
-  - [cite_start]Implemented Conditional Flow Matching (CFM) for deterministic and efficient video reconstruction[cite: 44, 106].
-  - [cite_start]Engineered spectral analysis tools to validate the Frequency-Gated Loss, ensuring high-fidelity semantic restoration[cite: 51, 176].
-
 - *2025.05 - Present*, **Token-Level RL Algorithm for Multimodal Large Language Models**, Dr. Xufang Luo, Shanghai, China
   - Developing a token-level RL algorithm to strengthen the spatial-reasoning capacity of MLLMs.
 
@@ -88,5 +83,5 @@ Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxu
 
 # 💻 Technical Skills
 - **Programming Languages**: C, C++, Python, R
-- [cite_start]**Developer Tools**: PyTorch, Matlab, SAS, FFT-based Spectral Analysis [cite: 51, 155]
+- **Developer Tools**: PyTorch, Matlab, SAS
 - **Languages**: Chinese, English
