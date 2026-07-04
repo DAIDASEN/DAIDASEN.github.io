@@ -37,7 +37,7 @@ I am actively involved in multiple research projects spanning multimodal large l
 
 # 📝 Accepted Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/IRIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation**
