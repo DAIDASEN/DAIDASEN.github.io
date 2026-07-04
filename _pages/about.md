@@ -35,7 +35,9 @@ I am actively involved in multiple research projects spanning multimodal large l
 - *2024.07*: &nbsp;🏆 Achieved **Dean's List** recognition (Top 10%) for exceptional academic performance.
 - *2024.05*: &nbsp;🏅 **Meritorious Winner** in the MCM Mathematical Modeling Contest (COMAP).
 
-# 📝 Accepted Publications
+# 📝 Publications
+
+## Accepted
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/IRIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +50,7 @@ Hao Wei, Wenjin Qi, **Dasen Dai**, Minqing Zhang, Wu Yuan
 </div>
 </div>
 
-# 📝 Submitted / Under Review
+## Submitted / Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/VisFactor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,13 +78,63 @@ NeurIPS 2026 under review &nbsp; [**arXiv**](https://arxiv.org/abs/2601.02228)
 </div>
 </div>
 
-- [**Mitigating Modality Interference for Unified Reasoning and Perception in Multimodal Large Language Models**](https://openreview.net/pdf?id=9pE4pxDuN6), Shuang Chen, Yimeng Ye, **Dasen Dai**, et al. NeurIPS 2026 under review.
-- **I-WebGenBench: Evaluating Interactivity in LLM-Generated Scientific Web Applications**, **Dasen Dai**, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang. NeurIPS 2026 under review.
-- [**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://arxiv.org/pdf/2603.29620), Shuang Chen, Quanxin Shou, Hangting Chen, ..., **Dasen Dai**, et al. NeurIPS 2026 under review.
-- [**OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents**](https://arxiv.org/pdf/2605.05185), Shuang Chen, Kaituo Feng, Hangting Chen, Wenxuan Huang, **Dasen Dai**, et al. NeurIPS 2026 under review.
-- [**PaperVoyager: Building Interactive Web with Large Multimodal Models**](https://arxiv.org/pdf/2603.22999), **Dasen Dai**\*, Biao Wu\*, Meng Fang, Wenhao Wang. ARR May 2026 under review.
-- [**ReMAP-PET: Beyond Visual Understanding – Learning Region-Guided Metabolic Alignment Semantics from Brain PET**](https://github.com/DAIDASEN/ReMAP-PET.git), **Dasen Dai**\*, Yanteng Zhang\*, Shuoqi Li\*, et al. ARR May 2026 under review.
-- [**VidDoS: Universal DoS Attack on Video-based LLMs**](https://arxiv.org/pdf/2603.01454), Duoxun Tang, **Dasen Dai**, Jiyao Wang, Xiao Yang, Jianyu Wang, Siqi Cai.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/IWebGenBench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**I-WebGenBench: Evaluating Interactivity in LLM-Generated Scientific Web Applications**
+
+**Dasen Dai**, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang
+
+NeurIPS 2026 under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/OpenSearchVL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents**](https://arxiv.org/pdf/2605.05185)
+
+Shuang Chen, Kaituo Feng, Hangting Chen, Wenxuan Huang, **Dasen Dai**, Quanxin Shou, Yunlong Lin, Xiangyu Yue, Shenghua Gao, Tianyu Pang
+
+NeurIPS 2026 under review &nbsp; [**arXiv**](https://arxiv.org/pdf/2605.05185)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARR 2026</div><img src='images/PaperVoyager.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**PaperVoyager: Building Interactive Web with Large Multimodal Models**](https://arxiv.org/pdf/2603.22999)
+
+**Dasen Dai**\*, Biao Wu\*, Meng Fang, Wenhao Wang
+
+ARR May 2026 under review &nbsp; [**arXiv**](https://arxiv.org/pdf/2603.22999)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARR 2026</div><img src='images/ReMAPPET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ReMAP-PET: Beyond Visual Understanding – Learning Region-Guided Metabolic Alignment Semantics from Brain PET**](https://github.com/DAIDASEN/ReMAP-PET.git)
+
+**Dasen Dai**\*, Yanteng Zhang\*, Shuoqi Li\*, Yuxiang Wei, Hongjie Yu, Qingxin Zhang, Qizhen Lan, Jagath C. Rajapakse, Vince D. Calhoun
+
+ARR May 2026 under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/VidDoS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**VidDoS: Universal DoS Attack on Video-based LLMs**](https://arxiv.org/pdf/2603.01454)
+
+Duoxun Tang, **Dasen Dai**, Jiyao Wang, Xiao Yang, Jianyu Wang, Siqi Cai
+
+[**arXiv**](https://arxiv.org/pdf/2603.01454)
+</div>
+</div>
+
+- [**Mitigating Modality Interference for Unified Reasoning and Perception in Multimodal Large Language Models**](https://openreview.net/pdf?id=9pE4pxDuN6), Shuang Chen, Yimeng Ye, **Dasen Dai**, Yicheng Xiao, Wenxuan Huang, Kaituo Feng, Kaixuan Fan, Manyuan Zhang, Yucheng Zhou, Hanwen Du, Haoxiao Wang, Ziqian Bi, Youhua Li, Tianyu Shi. NeurIPS 2026 under review.
+- [**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://arxiv.org/pdf/2603.29620), Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Yi-Fan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, **Dasen Dai**, Bolin Jiang, Manyuan Zhang, Shi-Xue Zhang, Zhengkai Jiang, Lucas Wang, Zhao Zhong, Yu Cheng, Nanyun Peng. NeurIPS 2026 under review.
 
 (\* denotes equal contribution)
 
