@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dai Dasen"
-description              : "Undergraduate student in Computational Data Science at CUHK, focusing on multimodal large language models and spatial reasoning research."
+description              : "Undergraduate at CUHK (GPA 3.70/4.00) researching MLLM reasoning, post-training & evaluation, and safety of multimodal agents. Multiple papers under review at NeurIPS/ICML/ACL."
 repository               : "DAIDASEN/DAIDASEN.github.io"
 google_scholar_stats_use_cdn : true
 
