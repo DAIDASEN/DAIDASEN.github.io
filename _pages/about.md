@@ -26,6 +26,7 @@ I am an undergraduate student pursuing a B.Sc. in Computational Data Science at 
 I am actively involved in multiple research projects spanning multimodal large language models (MLLMs), spatial reasoning, and vision-language systems. I have experience working on post-training methods for MLLMs, building evaluation benchmarks, and developing distributed systems for LLM reinforcement learning.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Three papers accepted to **NeurIPS 2026 (Poster)**: [OpenSearch-VL](https://arxiv.org/pdf/2605.05185), [Unify-Agent](https://openreview.net/pdf?id=l7slciTdt4), and [Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](https://arxiv.org/abs/2502.16435).
 - *2026.03*: &nbsp;📄 Multiple papers submitted to NeurIPS 2026 (I-WebGenBench, Unify-Agent, OpenSearch-VL, Human Cognitive Benchmarks, Modality Interference).
 - *2026.03*: &nbsp;📄 "ReMAP-PET" and "PaperVoyager" submitted to ARR May 2026.
 - *2026.01*: &nbsp;🚀 Started reviewer service for *Pattern Recognition*.
@@ -74,7 +75,16 @@ Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxu
 </div>
 </div>
 
-- [**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://openreview.net/pdf?id=l7slciTdt4), Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, YiFan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, **Dasen Dai**, Bolin Jiang, Manyuan Zhang, Yu Cheng, Nanyun Peng. **Accepted, NeurIPS 2026 (Poster)**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Poster</div><img src='images/UnifyAgent.png' alt="Unify-Agent overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://openreview.net/pdf?id=l7slciTdt4)
+
+Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, YiFan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, **Dasen Dai**, Bolin Jiang, Manyuan Zhang, Yu Cheng, Nanyun Peng
+
+**Accepted, NeurIPS 2026 (Poster)** &nbsp; [**OpenReview**](https://openreview.net/pdf?id=l7slciTdt4)
+</div>
+</div>
 
 ## Submitted / Under Review
 
@@ -135,7 +145,16 @@ Duoxun Tang, **Dasen Dai**, Jiyao Wang, Xiao Yang, Jianyu Wang, Siqi Cai
 </div>
 </div>
 
-- [**Mitigating Modality Interference for Unified Reasoning and Perception in Multimodal Large Language Models**](https://openreview.net/pdf?id=9pE4pxDuN6), Shuang Chen, Yimeng Ye, **Dasen Dai**, Yicheng Xiao, Wenxuan Huang, Kaituo Feng, Kaixuan Fan, Manyuan Zhang, Yucheng Zhou, Hanwen Du, Haoxiao Wang, Ziqian Bi, Youhua Li, Tianyu Shi. NeurIPS 2026 under review.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/ModalityInterference_page-0001.jpg' alt="Modality Interference overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Mitigating Modality Interference for Unified Reasoning and Perception in Multimodal Large Language Models**](https://openreview.net/pdf?id=9pE4pxDuN6)
+
+Shuang Chen, Yimeng Ye, **Dasen Dai**, Yicheng Xiao, Wenxuan Huang, Kaituo Feng, Kaixuan Fan, Manyuan Zhang, Yucheng Zhou, Hanwen Du, Haoxiao Wang, Ziqian Bi, Youhua Li, Tianyu Shi
+
+NeurIPS 2026 under review &nbsp; [**OpenReview**](https://openreview.net/pdf?id=9pE4pxDuN6)
+</div>
+</div>
 
 (\* denotes equal contribution)
 
