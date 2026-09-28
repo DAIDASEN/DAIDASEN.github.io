@@ -50,20 +50,33 @@ Hao Wei, Wenjin Qi, **Dasen Dai**, Minqing Zhang, Wu Yuan
 </div>
 </div>
 
-## Submitted / Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Poster</div><img src='images/OpenSearchVL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/VisFactor.png' alt="sym" width="100%"></div></div>
+[**OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents**](https://arxiv.org/pdf/2605.05185)
+
+Shuang Chen, Kaituo Feng, Hangting Chen, Wenxuan Huang, **Dasen Dai**, Quanxin Shou, Yunlong Lin, Xiangyu Yue, Shenghua Gao, Tianyu Pang
+
+**Accepted, NeurIPS 2026 (Poster)** &nbsp; [**arXiv**](https://arxiv.org/pdf/2605.05185)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Poster</div><img src='images/VisFactor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs**](https://arxiv.org/abs/2502.16435)
 
 Jen-Tse Huang, **Dasen Dai**, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxuan Wang, Wenxiang Jiao, Pinjia He, Zhaopeng Tu, Haodong Duan
 
-NeurIPS 2026 under review &nbsp; [**arXiv**](https://arxiv.org/abs/2502.16435)
+**Accepted, NeurIPS 2026 (Poster)** &nbsp; [**arXiv**](https://arxiv.org/abs/2502.16435)
 - Built a comprehensive benchmark suite based on the *Kit of Factor-Referenced Cognitive Tests* to evaluate MLLMs' spatial intelligence, identifying significant cognitive gaps between human and machine vision.
 - Engineered an automated, scalable data generation pipeline to batch-produce spatial reasoning tasks with fine-grained difficulty control, creating an RL-ready training corpus.
 </div>
 </div>
+
+- [**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://openreview.net/pdf?id=l7slciTdt4), Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, YiFan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, **Dasen Dai**, Bolin Jiang, Manyuan Zhang, Yu Cheng, Nanyun Peng. **Accepted, NeurIPS 2026 (Poster)**.
+
+## Submitted / Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FMVP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,17 +99,6 @@ NeurIPS 2026 under review &nbsp; [**arXiv**](https://arxiv.org/abs/2601.02228)
 **Dasen Dai**, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang
 
 NeurIPS 2026 under review
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/OpenSearchVL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents**](https://arxiv.org/pdf/2605.05185)
-
-Shuang Chen, Kaituo Feng, Hangting Chen, Wenxuan Huang, **Dasen Dai**, Quanxin Shou, Yunlong Lin, Xiangyu Yue, Shenghua Gao, Tianyu Pang
-
-NeurIPS 2026 under review &nbsp; [**arXiv**](https://arxiv.org/pdf/2605.05185)
 </div>
 </div>
 
@@ -134,7 +136,6 @@ Duoxun Tang, **Dasen Dai**, Jiyao Wang, Xiao Yang, Jianyu Wang, Siqi Cai
 </div>
 
 - [**Mitigating Modality Interference for Unified Reasoning and Perception in Multimodal Large Language Models**](https://openreview.net/pdf?id=9pE4pxDuN6), Shuang Chen, Yimeng Ye, **Dasen Dai**, Yicheng Xiao, Wenxuan Huang, Kaituo Feng, Kaixuan Fan, Manyuan Zhang, Yucheng Zhou, Hanwen Du, Haoxiao Wang, Ziqian Bi, Youhua Li, Tianyu Shi. NeurIPS 2026 under review.
-- [**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**](https://arxiv.org/pdf/2603.29620), Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Yi-Fan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, **Dasen Dai**, Bolin Jiang, Manyuan Zhang, Shi-Xue Zhang, Zhengkai Jiang, Lucas Wang, Zhao Zhong, Yu Cheng, Nanyun Peng. NeurIPS 2026 under review.
 
 (\* denotes equal contribution)
 
